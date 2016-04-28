@@ -1,10 +1,10 @@
 
 $(document).ready(function(){
  if ( $(window).width() > 739) {    
-   $('#logo-image').attr('src', 'images/d-logo-FULL.png');
+   $('#logo-image').attr('src', 'images/D-logo-FULL.png');
  }
  else {
-   $('#logo-image').attr('src', 'images/d-logo.png');
+   $('#logo-image').attr('src', 'images/D-logo.png');
    $('#logo-image').addClass('logo-small');
  }
 });
