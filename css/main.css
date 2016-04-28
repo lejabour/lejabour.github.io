@@ -1,0 +1,190 @@
+
+body {
+	padding-top: 100px;
+	position: relative;
+}
+
+.navbar .nav > li > a{
+	color: #f48583;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.navbar .nav > li > a:hover{
+	color: #aaa2a2;
+}
+
+.navbar.navbar-default {
+	background-color: #ffffff;
+	border: none;
+	padding-right: 30px;
+	padding-top: 10px;
+}
+
+.logo {
+	width: 100%;
+	max-width: 391px;
+}
+
+.logo-small {
+	height: 91px;
+	width: auto;
+	padding-left: 10px;
+}
+
+
+.navbar.nav {
+	border: none;
+	color: red;
+}
+
+#mobile-nav ul {
+	text-align: right;
+}
+
+#navbar-example li.active > a {
+    color: #999999;
+    background-color: #FFFFFF;
+}
+
+:target:before {
+  content:"";
+  display:block;
+  height:110px; /* fixed header height*/
+  margin:-60px 0 0; /* negative fixed header height */
+}
+
+#carousel-example-generic {
+	background-color: white;
+}
+
+.carousel-caption {
+	color: #8b5a1b;
+	font-size: 16px;
+	font-weight: normal;
+	top: 60px;
+	left: -400px;
+    bottom: auto;
+}
+
+#caption2 {
+	top: 130px;
+	left: 300px;
+}
+
+#caption3 {
+	top: 330px;
+	left: 500px;
+}
+
+#studio h2 {
+	color: #ffffff;
+}
+
+.headshot {
+	padding-bottom: 30px;
+	padding-right: 20px;
+}
+
+.dawnphoto {
+	width: 100%;
+	max-width: 382px;
+	padding-bottom: 30px;
+	padding-right: 20px;
+}
+
+#services h2 {
+	color: #aaa2a2;
+}
+
+#products h2 {
+	color: #f48583;
+}
+
+#contact h2 {
+	color: #ffffff;
+}
+
+.nav-contact {
+	float: right;
+}
+
+.phoneicon {
+  	padding-right: 10px;
+}
+
+.phone {
+	color: #000;
+  	font-size: 18px;
+  	padding-right: 10px;
+}
+
+.contact-tag {
+  	text-align: center;
+  	padding-top: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.btn.btn-default {
+	color: #ffffff;
+	background-color: #cccccc;	
+  	border-radius:20px; 
+}
+
+#studio {
+	background-color: #f48583;
+	min-height: 650px;
+}
+
+#services {
+	background-color: #ffffff;
+	min-height: 650px;
+}
+
+.tab-pane {
+	padding-top: 15px;
+}
+
+#products {
+	background-color: #cccccc;
+	min-height: 650px;
+}
+
+.products {
+	text-align: center;
+}
+
+#contact {
+	background-color: #f48583;
+	min-height: 650px;
+}
+
+#contactmap {
+	padding-bottom: 50px;
+}
+
+#footer {
+	background-color: #ffffff;
+}
+
+.copy {
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+small {
+	color: #f48583;
+	font-size: 16px;
+}
+
+#social a {
+	padding-right: 15px;
+}
+
+#social {
+	text-align: right;
+	padding-right: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
